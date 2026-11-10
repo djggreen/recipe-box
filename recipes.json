@@ -723,6 +723,89 @@
    "updatedAt": 1792650000000,
    "id": "ai-basil-balsamic-vinaigrette",
    "slug": "basil-balsamic-vinaigrette"
+  },
+  {
+   "id": "req-pumpkin-pie-tacos",
+   "slug": "pumpkin-pie-tacos",
+   "title": "Pumpkin Pie Tacos",
+   "sourceUrl": "https://sugarapron.com/2023/08/26/pumpkin-pie-tacos/",
+   "servings": 18,
+   "servingWeightGrams": 35,
+   "caloriesPerServing": 142,
+   "proteinPerServing": 2,
+   "totalTime": "30 min",
+   "ingredients": [
+    {
+     "quantity": "6",
+     "item": "8-inch tortillas (makes about 18–24 rounds)"
+    },
+    {
+     "quantity": "1/2 cup",
+     "item": "granulated sugar"
+    },
+    {
+     "quantity": "1 tsp",
+     "item": "ground cinnamon"
+    },
+    {
+     "quantity": "1/3 cup",
+     "item": "butter, melted"
+    },
+    {
+     "quantity": "4 oz",
+     "item": "cream cheese, softened (filling)"
+    },
+    {
+     "quantity": "1/4 cup",
+     "item": "powdered sugar (filling)"
+    },
+    {
+     "quantity": "3/4 cup",
+     "item": "canned pumpkin purée"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "pure vanilla extract (filling)"
+    },
+    {
+     "quantity": "1 1/2 tsp",
+     "item": "pumpkin pie spice"
+    },
+    {
+     "quantity": "1/2 cup",
+     "item": "heavy whipping cream"
+    },
+    {
+     "quantity": "2 tbsp",
+     "item": "powdered sugar (whipped cream)"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "vanilla extract (whipped cream)"
+    },
+    {
+     "quantity": "",
+     "item": "chopped pecans, for garnish"
+    }
+   ],
+   "steps": [
+    "Preheat the oven to 400°F. Cut 3–4 rounds from each tortilla with a 4–4½ inch cookie cutter, for about 20 shells.",
+    "Stir the sugar and cinnamon together on a plate. Prick each round 4–5 times with a fork to prevent air bubbles.",
+    "Brush both sides of the rounds with melted butter, then coat them in the cinnamon sugar.",
+    "Flip a muffin tin upside down and tuck the rounds between the cups. Bake 10 minutes, until just golden, and let cool in the pan.",
+    "While the shells cool, beat the cream, powdered sugar and vanilla with a mixer until stiff peaks form.",
+    "In a large bowl, beat the cream cheese and powdered sugar on medium-high until smooth. Add the pumpkin, vanilla and pumpkin pie spice and mix until fully combined.",
+    "Pipe or spoon the filling into the cooled shells, top with whipped cream, and sprinkle with cinnamon and/or chopped pecans. Serve right away."
+   ],
+   "tags": [
+    "dessert",
+    "tacos",
+    "pecans"
+   ],
+   "notes": "Shells can be made ahead and kept in an airtight container in the fridge up to 3 days (they soften over time). Use pure pumpkin, not pie filling. Requested by Doug Green.",
+   "needsDetails": false,
+   "createdAt": 1794329650540,
+   "updatedAt": 1794329650540
   }
  ]
 }
