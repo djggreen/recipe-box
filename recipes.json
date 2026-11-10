@@ -2511,10 +2511,7 @@
     "Serve with optional toppings such as yogurt, sliced almonds, or extra cinnamon if desired."
    ],
    "tags": [
-    "breakfast",
-    "baked",
-    "apple",
-    "cottage cheese"
+    "breakfast"
    ],
    "title": "Apple Cinnamon Cottage Cheese Bake",
    "totalTime": "45 min",
@@ -7517,7 +7514,6 @@
     "dinner",
     "beef",
     "seafood",
-    "fondue",
     "low-carb"
    ],
    "title": "Broth Fondue (Beef, Shrimp & Veggies)",
@@ -8970,8 +8966,7 @@
    ],
    "tags": [
     "holiday",
-    "turkey",
-    "fried"
+    "turkey"
    ],
    "title": "Cajun Deep-Fried Turkey",
    "totalTime": "9 hr 35 min (incl. 8 hr marinating)",
@@ -9694,7 +9689,6 @@
    ],
    "tags": [
     "dinner",
-    "pizza",
     "vegetarian",
     "low-carb",
     "gluten-free"
@@ -10103,8 +10097,7 @@
    ],
    "tags": [
     "appetizer",
-    "vegetarian",
-    "fried"
+    "vegetarian"
    ],
    "title": "Cheesecake Factory Avocado Egg Rolls (Copycat)",
    "totalTime": "20 min",
@@ -11660,8 +11653,7 @@
    ],
    "tags": [
     "dinner",
-    "chicken",
-    "pizza"
+    "chicken"
    ],
    "title": "Chicken Avocado Pizza with Garlic Oil",
    "totalTime": "35 min",
@@ -12492,7 +12484,6 @@
    ],
    "tags": [
     "appetizer",
-    "salsa",
     "vegan",
     "gluten-free"
    ],
@@ -17413,8 +17404,7 @@
    ],
    "tags": [
     "dinner",
-    "beef",
-    "copycat"
+    "beef"
    ],
    "title": "Copycat Crunchwrap Supreme",
    "totalTime": "30 min",
@@ -20253,8 +20243,7 @@
    "tags": [
     "dinner",
     "chicken",
-    "slow-cooker",
-    "low-calorie"
+    "slow-cooker"
    ],
    "title": "Crock Pot 3-Ingredient Balsamic Chicken",
    "totalTime": "4 hr",
@@ -25607,8 +25596,7 @@
    "tags": [
     "mexican",
     "dinner",
-    "beef",
-    "copycat"
+    "beef"
    ],
    "title": "Easy Mexican Pizza (Taco Bell Copycat)",
    "totalTime": "40 min",
@@ -25949,7 +25937,6 @@
    "tags": [
     "dinner",
     "pork",
-    "smoker",
     "grilling",
     "low-carb"
    ],
@@ -26015,7 +26002,6 @@
    ],
    "tags": [
     "side",
-    "pickles",
     "vegan",
     "gluten-free"
    ],
@@ -26355,7 +26341,6 @@
    ],
    "tags": [
     "appetizer",
-    "salsa",
     "vegan",
     "gluten-free",
     "low-carb"
@@ -27469,8 +27454,7 @@
     "Bake 7–9 minutes until golden."
    ],
    "tags": [
-    "appetizer",
-    "pizza"
+    "appetizer"
    ],
    "title": "Flaky Biscuit Pizza Snacks",
    "totalTime": "30 min",
@@ -29493,8 +29477,7 @@
    ],
    "tags": [
     "dinner",
-    "german",
-    "fondue"
+    "german"
    ],
    "title": "German Beer Cheddar Fondue",
    "totalTime": "15 min",
@@ -34756,8 +34739,7 @@
     "Use about 1 tbsp per pound of ground beef."
    ],
    "tags": [
-    "dinner",
-    "seasoning"
+    "dinner"
    ],
    "title": "Homemade Ground Beef Seasoning",
    "totalTime": "1 min",
@@ -35390,7 +35372,6 @@
    ],
    "tags": [
     "appetizer",
-    "salsa",
     "vegan",
     "gluten-free"
    ],
@@ -36767,7 +36748,6 @@
    ],
    "tags": [
     "appetizer",
-    "fondue",
     "vegetarian",
     "gluten-free"
    ],
@@ -37095,8 +37075,7 @@
    ],
    "tags": [
     "appetizer",
-    "vegetarian",
-    "fried"
+    "vegetarian"
    ],
    "title": "Jalapeño Cream Cheese Wonton Puffs",
    "totalTime": "25 min",
@@ -38367,7 +38346,6 @@
    "tags": [
     "slow-cooker",
     "dinner",
-    "lamb",
     "curry",
     "low-carb"
    ],
@@ -39995,7 +39973,6 @@
    ],
    "tags": [
     "drinks",
-    "low-calorie",
     "vegan",
     "gluten-free",
     "quick"
@@ -41115,8 +41092,7 @@
    "tags": [
     "dessert",
     "chocolate",
-    "high-protein",
-    "microwave"
+    "high-protein"
    ],
    "title": "Microwave Protein Brownie",
    "totalTime": "5 min",
@@ -50767,8 +50743,7 @@
    "tags": [
     "dessert",
     "brownies",
-    "chocolate",
-    "pecans"
+    "chocolate"
    ],
    "title": "Poke Turtle Brownies",
    "totalTime": "1 hr 50 min",
@@ -52801,8 +52776,7 @@
    ],
    "tags": [
     "dessert",
-    "tacos",
-    "pecans"
+    "tacos"
    ],
    "notes": "Shells can be made ahead and kept in an airtight container in the fridge up to 3 days (they soften over time). Use pure pumpkin, not pie filling. Requested by Doug Green.",
    "needsDetails": false,
@@ -53627,8 +53601,7 @@
    ],
    "tags": [
     "dinner",
-    "vegetarian",
-    "pizza"
+    "vegetarian"
    ],
    "title": "Ramp Pizza",
    "totalTime": "25 min (plus oven preheat)",
@@ -58910,7 +58883,7 @@
    "tags": [
     "chili",
     "beef",
-    "slow cooker",
+    "slow-cooker",
     "dinner"
    ],
    "title": "Slow Cooker Beef Chili",
@@ -62729,7 +62702,6 @@
     "soup",
     "vegan",
     "slow-cooker",
-    "copycat",
     "gluten-free"
    ],
    "title": "Slow Cooker Panera Autumn Squash Soup (Copycat)",
@@ -65092,7 +65064,6 @@
    "tags": [
     "appetizer",
     "dip",
-    "smoker",
     "chicken",
     "low-carb"
    ],
@@ -65389,7 +65360,6 @@
    ],
    "tags": [
     "side",
-    "pickles",
     "vegan",
     "gluten-free"
    ],
@@ -66467,7 +66437,6 @@
    "tags": [
     "slow-cooker",
     "dinner",
-    "lamb",
     "low-carb"
    ],
    "title": "Spiced Slow-Roasted Leg of Lamb",
@@ -75358,7 +75327,6 @@
    "tags": [
     "soup",
     "sausage",
-    "copycat",
     "gluten-free"
    ],
    "title": "Zuppa Toscana (Olive Garden Copycat)",
