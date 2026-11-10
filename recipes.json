@@ -880,26 +880,59 @@
    "slug": "30-minute-vietnamese-caramel-pork-stir-fry"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 190,
    "createdAt": 1792740000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Desserts. The recipe part of this page didn't load in the archive.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://thriftytstreasures.com/2015/01/4-ingredient-peanut-butter-cheesecake-balls/",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "8 oz",
+     "item": "cream cheese, softened"
+    },
+    {
+     "quantity": "scant 1 cup",
+     "item": "creamy peanut butter"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "item": "vanilla sugar"
+    },
+    {
+     "quantity": "a squeeze",
+     "item": "honey"
+    },
+    {
+     "quantity": "3–3 1/2 oz",
+     "item": "milk chocolate, melted"
+    },
+    {
+     "quantity": "1–3 1/2 oz",
+     "item": "white chocolate, melted (for drizzling)"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Desserts. The original recipe is no longer online, so this is a similar recipe from Kosher.com. Makes 12–20 balls.",
+   "proteinPerServing": 5,
+   "servingWeightGrams": 38,
+   "servings": 16,
+   "sourceUrl": "https://kosher.com/recipe/no-bake-peanut-butter-cheesecake-bites-14706",
+   "steps": [
+    "Beat the cream cheese, peanut butter, vanilla sugar and honey together until smooth.",
+    "Scoop small balls with a cookie scoop onto a greased baking sheet.",
+    "Freeze for 1 to 2 hours, until firm.",
+    "Melt the milk chocolate in short bursts, stirring until smooth.",
+    "Dip each ball in the melted chocolate with a fork and let the extra drip off.",
+    "Return to the freezer for about 15 minutes.",
+    "Drizzle with melted white chocolate.",
+    "Keep in the freezer until ready to eat."
+   ],
    "tags": [
     "dessert",
     "cheesecake",
     "cake",
-    "peanut-butter",
-    "saved-for-later"
+    "peanut-butter"
    ],
-   "title": "4-Ingredient Peanut Butter Cheesecake Balls",
-   "totalTime": "",
-   "updatedAt": 1792740000000,
+   "title": "No-Bake Peanut Butter Cheesecake Balls",
+   "totalTime": "1 hr 30 min",
+   "updatedAt": 1794330381711,
    "id": "ds-4-ingredient-pb-cheesecake-balls-saved",
    "slug": "4-ingredient-peanut-butter-cheesecake-balls"
   },
@@ -1614,26 +1647,54 @@
    "slug": "aip-nightshade-free-marinara-sauce-instant-pot"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 223,
    "createdAt": 1792650000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. The site has been in maintenance mode since 2023, and no web archive copy has the recipe.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://www.littlebitesofbeauty.com/aip-paleo-coconut-shrimp/",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "2 tbsp (14 g)",
+     "item": "coconut flour"
+    },
+    {
+     "quantity": "1/2 cup (32 g)",
+     "item": "coconut flakes"
+    },
+    {
+     "quantity": "7 oz (196 g)",
+     "item": "shrimp, peeled and deveined"
+    },
+    {
+     "quantity": "for frying",
+     "item": "avocado or coconut oil (the original says vegetable oil, which isn't AIP)"
+    },
+    {
+     "quantity": "",
+     "item": "salt"
+    },
+    {
+     "quantity": "to serve",
+     "item": "lime wedges"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. The original recipe is no longer online, so this is a similar recipe from Healing Autoimmune (via RecipeLion). Never leave hot oil unattended.",
+   "proteinPerServing": 22,
+   "servingWeightGrams": 130,
+   "servings": 2,
+   "sourceUrl": "https://www.recipelion.com/FishandSeafood/AIP-Coconut-Lime-Shrimp-Recipe",
+   "steps": [
+    "Mix the coconut flour and coconut flakes in a bowl. Add the shrimp and press the coating on well.",
+    "Heat the oil to 375–400°F. Fry the shrimp a few at a time for 1–2 minutes, then drain on paper towels.",
+    "Serve warm with salt and a generous squeeze of lime."
+   ],
    "tags": [
     "aip",
     "seafood",
     "paleo",
-    "whole30",
-    "saved-for-later"
+    "whole30"
    ],
-   "title": "AIP Paleo Coconut Shrimp",
-   "totalTime": "",
-   "updatedAt": 1792650000000,
+   "title": "AIP Coconut Lime Shrimp",
+   "totalTime": "10 min",
+   "updatedAt": 1794330381711,
    "id": "ai-aip-coconut-shrimp",
    "slug": "aip-paleo-coconut-shrimp"
   },
@@ -4001,24 +4062,61 @@
    "slug": "baked-chicken-wonton-tacos"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 260,
    "createdAt": 1792501100000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Dinner. KitchMe is gone (the link now goes to a coupon site) and the web archive copies don't include the recipe, so only the link is saved for now.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://www.kitchme.com/recipes/baked-garlic-parmesan-chicken",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "2 large",
+     "item": "boneless skinless chicken breasts, halved"
+    },
+    {
+     "quantity": "1/2 cup",
+     "item": "freshly grated parmesan cheese"
+    },
+    {
+     "quantity": "2 tsp",
+     "item": "paprika"
+    },
+    {
+     "quantity": "1 tsp",
+     "item": "sea salt"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "black pepper"
+    },
+    {
+     "quantity": "4",
+     "item": "garlic cloves, minced"
+    },
+    {
+     "quantity": "",
+     "item": "avocado oil spray"
+    },
+    {
+     "quantity": "",
+     "item": "fresh parsley, chopped"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Dinner. The original recipe is no longer online, so this is a similar recipe from Cuisine & Travel.",
+   "proteinPerServing": 44,
+   "servingWeightGrams": 140,
+   "servings": 4,
+   "sourceUrl": "https://www.cuisineandtravel.com/baked-garlic-parmesan-chicken/",
+   "steps": [
+    "Preheat the oven to 400°F. Mix the salt, pepper and paprika in a small bowl.",
+    "Spray a baking dish with avocado oil. Season both sides of the chicken generously and lay it in the dish.",
+    "Top each piece with minced garlic, then parmesan and parsley. Give the tops a light spray of oil.",
+    "Bake 15 minutes, until cooked through (165°F). Garnish with more parsley."
+   ],
    "tags": [
     "dinner",
-    "chicken",
-    "saved-for-later"
+    "chicken"
    ],
-   "title": "Baked Garlic Parmesan Chicken",
-   "totalTime": "",
-   "updatedAt": 1792501100000,
+   "title": "15-Minute Baked Garlic Parmesan Chicken",
+   "totalTime": "20 min",
+   "updatedAt": 1794330381711,
    "id": "dn-baked-garlic-parmesan-chicken-kitchme",
    "slug": "baked-garlic-parmesan-chicken"
   },
@@ -11430,24 +11528,79 @@
    "slug": "chicken-and-spinach-stuffed-shells"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 394,
    "createdAt": 1792560000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Mexican. The pin links only to the home page of thisiswhyimfull.com, not to a recipe, and the picture shows no ingredients. The description says it's a quick, healthy lunch or dinner.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "4",
+     "item": "cassava flour tortillas (or your favorite tortillas)"
+    },
+    {
+     "quantity": "1",
+     "item": "large boneless skinless chicken breast"
+    },
+    {
+     "quantity": "2 tsp",
+     "item": "olive oil, divided"
+    },
+    {
+     "quantity": "pinch each",
+     "item": "garlic powder, paprika and cumin"
+    },
+    {
+     "quantity": "",
+     "item": "salt and pepper"
+    },
+    {
+     "quantity": "1",
+     "item": "green bell pepper, sliced"
+    },
+    {
+     "quantity": "1/2",
+     "item": "onion, sliced"
+    },
+    {
+     "quantity": "1",
+     "item": "avocado, sliced"
+    },
+    {
+     "quantity": "1/4 cup",
+     "item": "salsa verde"
+    },
+    {
+     "quantity": "1/4 cup",
+     "item": "sour cream (or cashew sour cream)"
+    },
+    {
+     "quantity": "1/2 cup",
+     "item": "shredded Monterey Jack cheese, optional"
+    },
+    {
+     "quantity": "1 bunch",
+     "item": "fresh cilantro, chopped"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Mexican. The original recipe is no longer online, so this is a similar recipe from Downshiftology. The original pin only linked to a home page, so this is a similar quick, healthy version.",
+   "proteinPerServing": 15,
+   "servingWeightGrams": 250,
+   "servings": 4,
+   "sourceUrl": "https://downshiftology.com/recipes/chicken-and-avocado-burritos/",
+   "steps": [
+    "Preheat a grill (or grill pan) to medium-high.",
+    "Rub the chicken with 1 tsp oil and season with garlic powder, paprika, cumin, salt and pepper. Grill 4–6 minutes, until cooked through.",
+    "Meanwhile, sauté the onion and pepper in 1 tsp oil over medium heat for 3–4 minutes.",
+    "Rest the chicken 1–2 minutes, then slice into strips.",
+    "Fill each tortilla with chicken, peppers and onion, avocado, salsa verde, sour cream, cheese and cilantro, and roll tightly.",
+    "If you like, grill the burritos 1–2 minutes per side. Slice in half and serve."
+   ],
    "tags": [
     "mexican",
-    "chicken",
-    "saved-for-later"
+    "chicken"
    ],
-   "title": "Chicken Avocado Burritos",
-   "totalTime": "",
-   "updatedAt": 1792560000000,
+   "title": "Chicken and Avocado Burritos",
+   "totalTime": "45 min",
+   "updatedAt": 1794330381711,
    "id": "mx-chicken-avocado-burritos",
    "slug": "chicken-avocado-burritos"
   },
@@ -13910,23 +14063,55 @@
    "slug": "chocolate-reese-s-peanut-butter-cup-cookies"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 181,
    "createdAt": 1792700000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Smoothies. The pin is just a photo of two chocolate smoothies from an Instagram post by @freshhappycook. Any recipe would be in the Instagram caption, which I couldn't read.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://www.instagram.com/p/8eK1I9EBuW/",
-   "steps": [],
-   "tags": [
-    "drinks",
-    "saved-for-later"
+   "ingredients": [
+    {
+     "quantity": "1 1/2 cups",
+     "item": "unsweetened almond milk (or any milk)"
+    },
+    {
+     "quantity": "1 cup, packed",
+     "item": "baby spinach"
+    },
+    {
+     "quantity": "2",
+     "item": "frozen ripe bananas"
+    },
+    {
+     "quantity": "2 heaping tbsp",
+     "item": "unsweetened cocoa powder"
+    },
+    {
+     "quantity": "1 tbsp",
+     "item": "chia seeds (optional)"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "item": "ground cinnamon"
+    },
+    {
+     "quantity": "3–4",
+     "item": "ice cubes"
+    }
    ],
-   "title": "Chocolate Smoothie (Instagram, @freshhappycook)",
-   "totalTime": "",
-   "updatedAt": 1792700000000,
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Smoothies. The original recipe is no longer online, so this is a similar recipe from Yay! For Food. The original Instagram photo had no written recipe.",
+   "proteinPerServing": 5,
+   "servingWeightGrams": 350,
+   "servings": 2,
+   "sourceUrl": "https://www.yayforfood.com/recipes/healthy-chocolate-banana-smoothie/",
+   "steps": [
+    "Blend everything in a high-powered blender until smooth.",
+    "Taste and adjust: more milk to thin it, more cocoa for stronger chocolate flavor.",
+    "Serve right away."
+   ],
+   "tags": [
+    "drinks"
+   ],
+   "title": "Healthy Chocolate Banana Smoothie",
+   "totalTime": "5 min",
+   "updatedAt": 1794330381711,
    "id": "sm-instagram-chocolate-smoothie",
    "slug": "chocolate-smoothie-instagram-freshhappycook"
   },
@@ -24764,28 +24949,6 @@
    "slug": "easy-fajita-chicken-bake"
   },
   {
-   "caloriesPerServing": null,
-   "createdAt": 1792740000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Desserts. The page wouldn't load from the web archive, so only the link is saved.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://kwici.blogspot.com/2019/12/easy-french-macaron-with-vanilla.html",
-   "steps": [],
-   "tags": [
-    "dessert",
-    "macarons",
-    "saved-for-later"
-   ],
-   "title": "Easy French Macarons with Vanilla Buttercream",
-   "totalTime": "",
-   "updatedAt": 1792740000000,
-   "id": "ds-easy-french-macaron-vanilla-buttercream-saved",
-   "slug": "easy-french-macarons-with-vanilla-buttercream"
-  },
-  {
    "caloriesPerServing": 147,
    "createdAt": 1792740000000,
    "ingredients": [
@@ -28220,24 +28383,68 @@
    "slug": "frozen-chocolate-peanut-butter-banana-greek-yogurt-pops"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 103,
    "createdAt": 1792740000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Desserts. The recipe card on this page didn't load in the archive.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://backforseconds.com/fudge-brownies-made-with-greek-yogurt/",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "2/3 cup",
+     "item": "nonfat vanilla Greek yogurt"
+    },
+    {
+     "quantity": "1/4 cup",
+     "item": "coconut sugar"
+    },
+    {
+     "quantity": "2",
+     "item": "large eggs"
+    },
+    {
+     "quantity": "5 oz",
+     "item": "dark chocolate, divided (4 oz melted, the rest chopped)"
+    },
+    {
+     "quantity": "2 tbsp",
+     "item": "coconut oil"
+    },
+    {
+     "quantity": "1/2 cup (42 g)",
+     "item": "cocoa powder"
+    },
+    {
+     "quantity": "1 tbsp (9 g)",
+     "item": "cornstarch"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "baking soda"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "item": "salt"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Desserts. The original recipe is no longer online, so this is a similar recipe from Food Faith Fitness. Don't overbake. Keeps up to 1 week in the fridge or 3 months frozen.",
+   "proteinPerServing": 3,
+   "servingWeightGrams": 30,
+   "servings": 16,
+   "sourceUrl": "https://www.foodfaithfitness.com/healthy-greek-yogurt-brownies/",
+   "steps": [
+    "Heat the oven to 325°F and line an 8×8-inch pan with parchment paper.",
+    "Whisk the yogurt, coconut sugar and eggs together in a large bowl.",
+    "Microwave 4 oz of the chocolate with the coconut oil for about 1 minute, until smooth, then whisk it into the egg mixture.",
+    "Whisk in the cocoa powder, cornstarch, baking soda and salt, then stir in the remaining chopped chocolate.",
+    "Spread the batter in the pan and bake 22–23 minutes, until a toothpick in the center comes out clean.",
+    "Move the pan straight to the fridge for 15 minutes.",
+    "Let cool completely on the counter before slicing."
+   ],
    "tags": [
     "dessert",
-    "brownies",
-    "saved-for-later"
+    "brownies"
    ],
-   "title": "Fudge Brownies Made with Greek Yogurt",
-   "totalTime": "",
-   "updatedAt": 1792740000000,
+   "title": "Healthy Greek Yogurt Brownies",
+   "totalTime": "1 hr 35 min",
+   "updatedAt": 1794330381711,
    "id": "ds-greek-yogurt-fudge-brownies-saved",
    "slug": "fudge-brownies-made-with-greek-yogurt"
   },
@@ -37145,24 +37352,68 @@
    "slug": "jiffy-corn-pudding-corn-souffl"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 450,
    "createdAt": 1792501200000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Dinner. The link now redirects to a different recipe (pinto beans) and the web archive has no copy, so only the link is saved for now.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://tessarecipes.com/blackstone-pork-chops/",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "1/2 tsp",
+     "item": "brown sugar or coconut sugar"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "onion powder"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "garlic powder"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "sea salt"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "item": "smoked paprika"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "item": "pepper"
+    },
+    {
+     "quantity": "2",
+     "item": "bone-in pork chops, about 1 1/4 inches thick"
+    },
+    {
+     "quantity": "2 tbsp",
+     "item": "olive oil (or mustard)"
+    },
+    {
+     "quantity": "2 tbsp",
+     "item": "high-heat oil such as avocado oil or ghee"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Dinner. The original recipe is no longer online, so this is a similar recipe from Real Simple Good. Cook to temperature, not time. Boneless chops: sear 2 minutes per side, then 7–10 minutes total to 140°F.",
+   "proteinPerServing": 48,
+   "servingWeightGrams": 200,
+   "servings": 2,
+   "sourceUrl": "https://realsimplegood.com/blackstone-pork-chops/",
+   "steps": [
+    "Heat the griddle to medium-high, about 400°F.",
+    "Mix the seasonings in a small bowl.",
+    "Rub the chops with olive oil on both sides, then season both sides generously.",
+    "Spread the high-heat oil on the hot griddle.",
+    "Cook the chops 3 minutes per side, then keep flipping every 1–2 minutes until they reach 140°F inside, about 12 minutes total.",
+    "Sear the fat edges against the griddle for 5–10 seconds each.",
+    "Rest at least 5 minutes; they'll climb to 145°F."
+   ],
    "tags": [
     "dinner",
-    "pork",
-    "saved-for-later"
+    "pork"
    ],
-   "title": "Juicy Blackstone Grilled Pork Chops",
-   "totalTime": "",
-   "updatedAt": 1792501200000,
+   "title": "Juicy Blackstone Pork Chops",
+   "totalTime": "25 min",
+   "updatedAt": 1794330381711,
    "id": "dn-blackstone-pork-chops",
    "slug": "juicy-blackstone-grilled-pork-chops"
   },
@@ -38125,30 +38376,6 @@
    "updatedAt": 1792461000000,
    "id": "lamb-saag-gosht",
    "slug": "lamb-curry-with-spinach-saag-gosht"
-  },
-  {
-   "caloriesPerServing": null,
-   "createdAt": 1792740000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Desserts. The pin links to a blank placeholder site (plumprecipes.zohosites.com), and the picture shows no recipe. The 4 Layer Peanut Butter Cheesecake Brownies from Crazy for Crust, also on this board, look like the same dessert.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "",
-   "steps": [],
-   "tags": [
-    "dessert",
-    "brownies",
-    "cheesecake",
-    "peanut-butter",
-    "saved-for-later"
-   ],
-   "title": "Layered Peanut Butter Cheesecake Brownies",
-   "totalTime": "",
-   "updatedAt": 1792740000000,
-   "id": "ds-layered-pb-cheesecake-brownies-saved",
-   "slug": "layered-peanut-butter-cheesecake-brownies"
   },
   {
    "caloriesPerServing": 356,
@@ -57532,25 +57759,78 @@
    "slug": "skillet-salmon-with-garlic-lemon-butter-sauce"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 201,
    "createdAt": 1792501200000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Dinner. Skinny Mom removed the page and the web archive copy is blocked, so only the link is saved for now.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://skinnymom.com/skinny-beef-casserole/",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "1/2 lb",
+     "item": "lean ground beef"
+    },
+    {
+     "quantity": "1 cup",
+     "item": "onion, chopped"
+    },
+    {
+     "quantity": "1 cup",
+     "item": "celery, chopped"
+    },
+    {
+     "quantity": "1 cup",
+     "item": "green bell pepper, cubed"
+    },
+    {
+     "quantity": "3 1/2 cups",
+     "item": "tomatoes, diced"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "item": "salt"
+    },
+    {
+     "quantity": "1/2 tsp",
+     "item": "ground black pepper"
+    },
+    {
+     "quantity": "1/4 tsp",
+     "item": "paprika"
+    },
+    {
+     "quantity": "1 cup",
+     "item": "frozen peas"
+    },
+    {
+     "quantity": "2 small",
+     "item": "carrots, peeled and diced"
+    },
+    {
+     "quantity": "1 cup",
+     "item": "uncooked rice"
+    },
+    {
+     "quantity": "1 1/2 cups",
+     "item": "water"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Dinner. The original recipe is no longer online, so this is a similar recipe from MedlinePlus (NIH). A heart-healthy recipe from the NIH. A serving is 1 1/2 cups.",
+   "proteinPerServing": 9,
+   "servingWeightGrams": 330,
+   "servings": 8,
+   "sourceUrl": "https://medlineplus.gov/recipes/quick-beef-casserole",
+   "steps": [
+    "Brown the ground beef in a large sauté pan and drain off the fat.",
+    "Add all the remaining ingredients and mix well.",
+    "Cover and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer 35 minutes. Serve hot."
+   ],
    "tags": [
     "dinner",
     "beef",
-    "casserole",
-    "saved-for-later"
+    "casserole"
    ],
-   "title": "Skinny Beef Casserole",
-   "totalTime": "",
-   "updatedAt": 1792501200000,
+   "title": "Quick Beef Casserole",
+   "totalTime": "55 min",
+   "updatedAt": 1794330381711,
    "id": "dn-skinny-beef-casserole",
    "slug": "skinny-beef-casserole"
   },
@@ -71802,23 +72082,99 @@
    "slug": "ultimate-breakfast-burritos-freezer-friendly"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 445,
    "createdAt": 1792500900000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Dinner. SheerLuxe blocks automated access and the web archive has no readable copy, so only the link is saved for now.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://sheerluxe.com/2012/02/10/ultimate-clean-lean-lettuce-wrap",
-   "steps": [],
-   "tags": [
-    "dinner",
-    "saved-for-later"
+   "ingredients": [
+    {
+     "quantity": "2",
+     "item": "boneless skinless chicken breasts"
+    },
+    {
+     "quantity": "1",
+     "item": "red, yellow or orange bell pepper"
+    },
+    {
+     "quantity": "1 head",
+     "item": "cauliflower"
+    },
+    {
+     "quantity": "4 cloves",
+     "item": "garlic"
+    },
+    {
+     "quantity": "1",
+     "item": "shallot"
+    },
+    {
+     "quantity": "2-inch piece",
+     "item": "fresh ginger"
+    },
+    {
+     "quantity": "4 tsp",
+     "item": "olive oil, divided"
+    },
+    {
+     "quantity": "1/4 cup",
+     "item": "reduced-sodium soy sauce, tamari or coconut aminos"
+    },
+    {
+     "quantity": "1/2 cup",
+     "item": "reduced-sodium chicken broth"
+    },
+    {
+     "quantity": "1",
+     "item": "lime"
+    },
+    {
+     "quantity": "16 leaves",
+     "item": "Boston or iceberg lettuce"
+    },
+    {
+     "quantity": "8",
+     "item": "eggs (optional topping)"
+    },
+    {
+     "quantity": "small handful",
+     "item": "shredded carrots, for garnish"
+    },
+    {
+     "quantity": "2 tsp",
+     "item": "sesame seeds, for garnish"
+    },
+    {
+     "quantity": "",
+     "item": "cilantro and hot sauce, optional"
+    },
+    {
+     "quantity": "",
+     "item": "salt and pepper"
+    }
    ],
-   "title": "Ultimate Clean & Lean Lettuce Wrap",
-   "totalTime": "",
-   "updatedAt": 1792500900000,
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Dinner. The original recipe is no longer online, so this is a similar recipe from Diabetes Strong. Two wraps per serving. Pack the filling and lettuce separately; keeps 4–5 days in the fridge.",
+   "proteinPerServing": 37,
+   "servingWeightGrams": 375,
+   "servings": 4,
+   "sourceUrl": "https://diabetesstrong.com/healthy-chicken-lettuce-wraps/",
+   "steps": [
+    "Chop the cauliflower by hand into 1/2–1 inch pieces and dice the bell pepper. Toss with 2 tsp olive oil, salt and pepper.",
+    "Mince the garlic, ginger and shallot.",
+    "Wash the lettuce leaves; use two leaves per wrap for 8 wraps.",
+    "Heat a large sauté pan over medium-high heat.",
+    "Cut the chicken into 1-inch pieces, season with salt and pepper, toss with 2 tsp olive oil, and sauté 5–7 minutes until cooked through. Set aside.",
+    "Sauté the cauliflower and pepper 5–7 minutes, stirring often.",
+    "Add the shallot for about 30–60 seconds, then cover 1–2 minutes until the vegetables soften but keep some bite.",
+    "Add the garlic and ginger and cook no more than 1 minute, stirring.",
+    "Add the soy sauce, broth and chicken and stir until most of the sauce is absorbed, about 2 minutes. Squeeze in the lime.",
+    "If using eggs, wipe the pan, add a little oil and fry them sunny-side up, covered, up to four at a time.",
+    "Fill each lettuce wrap with about 3/4 cup of the stir-fry, top with carrots, sesame seeds, cilantro and an egg, and add hot sauce if you like."
+   ],
+   "tags": [
+    "dinner"
+   ],
+   "title": "Healthy Chicken Lettuce Wraps",
+   "totalTime": "30 min",
+   "updatedAt": 1794330381711,
    "id": "dn-ultimate-clean-lean-lettuce-wrap",
    "slug": "ultimate-clean-lean-lettuce-wrap"
   },
@@ -73572,24 +73928,52 @@
    "slug": "veggie-nuggets-with-vegan-honey-mustard"
   },
   {
-   "caloriesPerServing": null,
+   "caloriesPerServing": 115,
    "createdAt": 1792740000000,
-   "ingredients": [],
-   "needsDetails": true,
-   "notes": "From Jessica Lynn's Pinterest board Desserts. The page wouldn't load from the web archive, so only the link is saved.",
-   "proteinPerServing": null,
-   "servingWeightGrams": null,
-   "servings": null,
-   "sourceUrl": "https://www.foodiestyling.com/viral-cottage-cheese-edible-cookie-dough/",
-   "steps": [],
+   "ingredients": [
+    {
+     "quantity": "16 oz (453 g)",
+     "item": "cottage cheese, small or large curd"
+    },
+    {
+     "quantity": "2 tbsp",
+     "item": "brown sugar (or a sugar-free alternative)"
+    },
+    {
+     "quantity": "1 tsp",
+     "item": "vanilla extract"
+    },
+    {
+     "quantity": "1 scoop (40 g)",
+     "item": "vanilla protein powder"
+    },
+    {
+     "quantity": "1 1/2 cups (120 g)",
+     "item": "almond meal"
+    },
+    {
+     "quantity": "1/2 cup (90 g)",
+     "item": "chocolate chips"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Desserts. The original recipe is no longer online, so this is a similar recipe from Live Eat Learn. A serving is about 2 heaping tablespoons. Keeps 3–4 days in the fridge, or freeze in single portions. Not for baking.",
+   "proteinPerServing": 7,
+   "servingWeightGrams": 46,
+   "servings": 16,
+   "sourceUrl": "https://www.liveeatlearn.com/cottage-cheese-cookie-dough/",
+   "steps": [
+    "Blend the cottage cheese, brown sugar, vanilla and protein powder until completely smooth and creamy.",
+    "Stir in the almond meal and chocolate chips.",
+    "Cover and chill in the fridge for about an hour before serving."
+   ],
    "tags": [
     "dessert",
-    "cookies",
-    "saved-for-later"
+    "cookies"
    ],
-   "title": "Viral Cottage Cheese Edible Cookie Dough",
-   "totalTime": "",
-   "updatedAt": 1792740000000,
+   "title": "High-Protein Cottage Cheese Cookie Dough",
+   "totalTime": "5 min",
+   "updatedAt": 1794330381711,
    "id": "ds-viral-cottage-cheese-cookie-dough-saved",
    "slug": "viral-cottage-cheese-edible-cookie-dough"
   },
