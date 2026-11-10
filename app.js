@@ -2,7 +2,7 @@
 // Each recipe has its own link: <site>#/<slug>. Opening that link opens the card directly.
 
 // Paste the Google Form's share link here to show the "Request a recipe" button.
-const REQUEST_FORM_URL = "";
+const REQUEST_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScvlAEgEnJjSDRKTtJK65k306tqtxDkb1onZYeyQXl08ABDBw/viewform";
 
 (() => {
   const $ = (s, r = document) => r.querySelector(s);
