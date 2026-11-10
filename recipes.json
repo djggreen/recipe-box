@@ -1,0 +1,728 @@
+{
+ "recipes": [
+  {
+   "caloriesPerServing": 380,
+   "createdAt": 1792431201129,
+   "ingredients": [
+    {
+     "item": "flour",
+     "quantity": "1 cup"
+    },
+    {
+     "item": "baking powder",
+     "quantity": "1/2 teaspoon"
+    },
+    {
+     "item": "salt",
+     "quantity": "1/2 teaspoon"
+    },
+    {
+     "item": "cinnamon (optional)",
+     "quantity": "1/4 teaspoon"
+    },
+    {
+     "item": "butter, melted (2 sticks)",
+     "quantity": "1 cup"
+    },
+    {
+     "item": "granulated sugar",
+     "quantity": "2 cups"
+    },
+    {
+     "item": "unsweetened cocoa powder",
+     "quantity": "3/4 cup"
+    },
+    {
+     "item": "large eggs",
+     "quantity": "4"
+    },
+    {
+     "item": "vanilla extract",
+     "quantity": "2 teaspoons"
+    },
+    {
+     "item": "semi-sweet chocolate chips",
+     "quantity": "1 cup"
+    },
+    {
+     "item": "pecans, roughly chopped, divided",
+     "quantity": "1 1/4 cup"
+    },
+    {
+     "item": "Recipe Easy Creamy Caramel Sauce",
+     "quantity": "3/4 cup"
+    },
+    {
+     "item": "mini semi-sweet chocolate chips (may sub regular)",
+     "quantity": "1/4 cup"
+    },
+    {
+     "item": "butter, softened (for frosting)",
+     "quantity": "6 tablespoons"
+    },
+    {
+     "item": "cocoa powder (for frosting)",
+     "quantity": "1/4 cup + 2 tablespoons"
+    },
+    {
+     "item": "light corn syrup (may substitute honey)",
+     "quantity": "2 tablespoons"
+    },
+    {
+     "item": "vanilla extract (for frosting)",
+     "quantity": "1 teaspoon"
+    },
+    {
+     "item": "powdered sugar, sifted",
+     "quantity": "1 1/2 cups"
+    },
+    {
+     "item": "milk",
+     "quantity": "2-3 tablespoons"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "Optionally microwave a serving for about 15 seconds before eating. Total time estimated from bake time plus cooling and caramel setting time; servings, serving weight, calories and protein are estimates.",
+   "proteinPerServing": 4,
+   "servingWeightGrams": 85,
+   "servings": 24,
+   "sourceUrl": "https://carlsbadcravings.com/poke-turtle-brownies-recipe/",
+   "steps": [
+    "Preheat oven to 350 degrees F.",
+    "Line a 9x13 pan with parchment paper or aluminum foil so it overhangs slightly, and lightly spray with nonstick cooking spray. Set aside.",
+    "In a medium bowl, mix together flour, baking powder, salt and cinnamon. Set aside.",
+    "In a separate large bowl, whisk butter, sugar and cocoa powder together.",
+    "Add eggs one at a time, beating after each addition just until incorporated, then beat in vanilla.",
+    "Fold in the flour mixture just until combined.",
+    "Stir in 1 cup semi-sweet chocolate chips and 3/4 cup chopped pecans until just combined.",
+    "Pour batter evenly into the pan.",
+    "Bake at 350 degrees for 30-35 minutes.",
+    "Let the pan cool on a wire rack for 5 minutes, then poke holes all over with the back of a chopstick or small wooden spoon.",
+    "Pour 1/2 cup caramel over the brownies and spread it into the holes with a spatula.",
+    "Refrigerate for one hour or freeze for 30 minutes to let the caramel set, and meanwhile make the frosting.",
+    "For the frosting, beat butter, cocoa, corn syrup and vanilla in a small bowl until blended.",
+    "Add powdered sugar and 2 tablespoons milk and beat until smooth, adding more milk if needed to reach spreading consistency.",
+    "Once the caramel has set, frost the brownies with the chocolate frosting (you don't have to use all of it).",
+    "Sprinkle evenly with 1/2 cup chopped pecans and 1/4 cup mini chocolate chips, and drizzle with 1/4 cup caramel.",
+    "Serve immediately, or refrigerate to let the frosting set and make cutting easier."
+   ],
+   "tags": [
+    "dessert",
+    "brownies",
+    "chocolate",
+    "pecans"
+   ],
+   "title": "Poke Turtle Brownies",
+   "totalTime": "1 hr 50 min",
+   "updatedAt": 1792432235286,
+   "id": "33bd3o1heaoe5mfpharv",
+   "slug": "poke-turtle-brownies"
+  },
+  {
+   "caloriesPerServing": 290,
+   "createdAt": 1792451000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "salsa",
+     "quantity": "1 cup"
+    },
+    {
+     "item": "taco seasoning",
+     "quantity": "2 tbsp"
+    },
+    {
+     "item": "salt",
+     "quantity": "to taste"
+    },
+    {
+     "item": "boneless skinless chicken breasts (6–8 oz each)",
+     "quantity": "3 large"
+    },
+    {
+     "item": "avocado (sauce)",
+     "quantity": "1 large"
+    },
+    {
+     "item": "jalapeño, seeded and quartered (sauce)",
+     "quantity": "1 medium"
+    },
+    {
+     "item": "cilantro leaves (sauce)",
+     "quantity": "1/2 cup"
+    },
+    {
+     "item": "water (sauce)",
+     "quantity": "1/2 cup"
+    },
+    {
+     "item": "garlic (sauce)",
+     "quantity": "2 cloves"
+    },
+    {
+     "item": "white vinegar (sauce)",
+     "quantity": "2 tsp"
+    },
+    {
+     "item": "flour or corn tortillas",
+     "quantity": "8 (8-inch)"
+    },
+    {
+     "item": "toppings: queso fresco, red onion, cilantro, avocado, sour cream",
+     "quantity": ""
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From the 40 Aprons roundup Whole30 Slow Cooker Recipes. Nutrition is the site's figure for 1 taco with sauce, no toppings.",
+   "proteinPerServing": 23,
+   "servingWeightGrams": 170,
+   "servings": 8,
+   "sourceUrl": "https://40aprons.com/crockpot-chicken-tacos/",
+   "steps": [
+    "Stir the salsa, taco seasoning and salt (if your seasoning has none) in the slow cooker.",
+    "Add the chicken, turn to coat, and cover.",
+    "Cook on LOW 5–6 hours or HIGH 3–3 1/2 hours.",
+    "Shred the chicken with a hand mixer or two forks, return it to the slow cooker and stir.",
+    "Cook uncovered 60 minutes on LOW or 30 on HIGH.",
+    "For the sauce, blend the avocado, jalapeño, cilantro, water, garlic, vinegar and salt until very smooth.",
+    "Stack the tortillas between damp paper towels and microwave 20–30 seconds to warm.",
+    "Fill the tortillas with chicken, drizzle with sauce, add toppings and serve."
+   ],
+   "tags": [
+    "slow-cooker",
+    "dinner",
+    "chicken",
+    "tacos"
+   ],
+   "title": "Crockpot Chicken Tacos with Avocado-Cilantro Sauce",
+   "totalTime": "4–7 hr",
+   "updatedAt": 1792451000000,
+   "id": "40a-chicken-tacos-avocado-sauce",
+   "slug": "crockpot-chicken-tacos-with-avocado-cilantro-sauce"
+  },
+  {
+   "caloriesPerServing": 505,
+   "createdAt": 1792451000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "Whole30-compliant bacon, 1/2-inch pieces",
+     "quantity": "6 slices"
+    },
+    {
+     "item": "Aidells chicken-apple sausage, sliced",
+     "quantity": "1 lb"
+    },
+    {
+     "item": "white or yellow onion, diced",
+     "quantity": "1 medium"
+    },
+    {
+     "item": "garlic, minced",
+     "quantity": "4 cloves"
+    },
+    {
+     "item": "yellow potatoes (about 1 lb 3 oz), diced",
+     "quantity": "4 medium"
+    },
+    {
+     "item": "chicken stock",
+     "quantity": "4 cups"
+    },
+    {
+     "item": "crushed red pepper flakes",
+     "quantity": "1/2 tsp"
+    },
+    {
+     "item": "Italian seasoning",
+     "quantity": "2 tsp"
+    },
+    {
+     "item": "kale, stems removed, chopped (about 4 cups)",
+     "quantity": "1/2 bunch"
+    },
+    {
+     "item": "full-fat coconut milk",
+     "quantity": "2 (13.5 oz) cans"
+    },
+    {
+     "item": "salt and pepper",
+     "quantity": "to taste"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From the 40 Aprons roundup Whole30 Slow Cooker Recipes (pinned on Jessica Lynn's Slow Cooker board). Calories and protein are the site's figures; serving weight is an estimate.",
+   "proteinPerServing": 18,
+   "servingWeightGrams": 400,
+   "servings": 8,
+   "sourceUrl": "https://40aprons.com/crockpot-zuppa-toscana/",
+   "steps": [
+    "Cook the bacon in a large skillet until crisp; remove and reserve the grease.",
+    "Brown the sausage slices in 1 tbsp bacon grease over medium heat, 5–7 minutes per side.",
+    "Add the onion and garlic and cook until the onion is translucent, 4–5 minutes, adding more grease if needed.",
+    "Put the potatoes in the slow cooker with the onion mixture and sausage. Pour in the stock and stir in the red pepper flakes, plenty of salt and the Italian seasoning.",
+    "Cover and cook until the potatoes are fork-tender, about 3 hours on HIGH or 6 on LOW.",
+    "Stir in the coconut milk and kale. Cover and cook on HIGH about 15 minutes, until the kale wilts but stays bright green.",
+    "Stir in the bacon, season with pepper and serve."
+   ],
+   "tags": [
+    "slow-cooker",
+    "soup",
+    "whole30"
+   ],
+   "title": "Crockpot Zuppa Toscana (Whole30)",
+   "totalTime": "3–6 hr",
+   "updatedAt": 1792451000000,
+   "id": "40a-crockpot-zuppa-toscana",
+   "slug": "crockpot-zuppa-toscana-whole30"
+  },
+  {
+   "caloriesPerServing": 150,
+   "createdAt": 1792412942070,
+   "ingredients": [
+    {
+     "item": "peanut butter",
+     "quantity": "1 cup"
+    },
+    {
+     "item": "oats",
+     "quantity": "3 cups"
+    },
+    {
+     "item": "honey",
+     "quantity": "1/2 cup"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "Total time is an estimate (about 10 minutes of prep plus a few hours of chilling). Servings and calories are estimates, based on cutting the pan into 16 squares.",
+   "proteinPerServing": 6,
+   "servingWeightGrams": 42,
+   "servings": 16,
+   "sourceUrl": "",
+   "steps": [
+    "Line a 9x9 pan with non-stick foil, or regular foil as long as you use a non-stick spray.",
+    "Melt the honey and peanut butter together until smooth enough to mix with the oats, either in the microwave for about 1-2 minutes or on the stove top.",
+    "Combine the mixture with the oats, starting with 2 cups and slowly adding the rest, as you may need less depending on your peanut butter and honey brand, then mix well.",
+    "Pour the mixture into the prepared pan and refrigerate for a few hours until set enough to cut into squares.",
+    "Store the squares in the refrigerator to keep them firm, or leave them out if you like them soft and sticky."
+   ],
+   "tags": [
+    "dessert",
+    "no-bake",
+    "peanut-butter",
+    "snack"
+   ],
+   "title": "No-Bake Peanut Butter Oat Bars",
+   "totalTime": "3 hr",
+   "updatedAt": 1792678462241,
+   "id": "4re2bn0104ibqhma3rot",
+   "slug": "no-bake-peanut-butter-oat-bars"
+  },
+  {
+   "caloriesPerServing": 55,
+   "createdAt": 1792660000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "banana",
+     "quantity": "1 very ripe (almost black)"
+    },
+    {
+     "item": "finely shredded unsweetened dried coconut",
+     "quantity": "2/3 cup"
+    },
+    {
+     "item": "vanilla extract",
+     "quantity": "1/4 tsp (or a splash)"
+    },
+    {
+     "item": "chocolate chips or nuts",
+     "quantity": "optional"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. The site is gone, so this comes from a 2019 web archive copy. Calories, protein, weight and the number of cookies are estimates.",
+   "proteinPerServing": 0.6,
+   "servingWeightGrams": 20,
+   "servings": 8,
+   "sourceUrl": "https://web.archive.org/web/2019/http://ohthatstasty.com/recipes/3-ingredient-coconut-cookies/",
+   "steps": [
+    "Preheat the oven to 350°F. Grind the coconut fine (like instant oatmeal) if it isn't already.",
+    "Mash the banana with the vanilla, then stir in the coconut until it looks like coarse mashed potatoes.",
+    "Roll about 2 tbsp per cookie onto a parchment-lined sheet and press crosswise with a fork.",
+    "Bake about 11 minutes, until just browning at the edges and underneath."
+   ],
+   "tags": [
+    "aip",
+    "dessert",
+    "snack",
+    "vegan",
+    "paleo",
+    "gluten-free"
+   ],
+   "title": "3-Ingredient Coconut Banana Cookies",
+   "totalTime": "20 min",
+   "updatedAt": 1792660000000,
+   "id": "ai-3-ingredient-coconut-cookies",
+   "slug": "3-ingredient-coconut-banana-cookies"
+  },
+  {
+   "caloriesPerServing": 420,
+   "createdAt": 1792660000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "full-fat coconut milk",
+     "quantity": "3/4 cup"
+    },
+    {
+     "item": "pure vanilla extract",
+     "quantity": "1 tsp"
+    },
+    {
+     "item": "apple cider vinegar",
+     "quantity": "1 1/2 tbsp"
+    },
+    {
+     "item": "cassava flour",
+     "quantity": "1/2 cup"
+    },
+    {
+     "item": "tigernut flour",
+     "quantity": "3/4 cup"
+    },
+    {
+     "item": "tapioca starch",
+     "quantity": "1/4 cup"
+    },
+    {
+     "item": "baking soda",
+     "quantity": "1/2 tsp"
+    },
+    {
+     "item": "sea salt",
+     "quantity": "1/2 tsp"
+    },
+    {
+     "item": "ripe banana",
+     "quantity": "1 large (about 1/2 cup mashed)"
+    },
+    {
+     "item": "coconut oil, for frying",
+     "quantity": ""
+    },
+    {
+     "item": "coconut oil, melted (carob sauce)",
+     "quantity": "2 tbsp"
+    },
+    {
+     "item": "carob powder (carob sauce)",
+     "quantity": "2 tbsp"
+    },
+    {
+     "item": "maple syrup (carob sauce)",
+     "quantity": "2 tbsp"
+    },
+    {
+     "item": "carob sauce",
+     "quantity": "1/4 tsp salt + splash vanilla"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. Makes 8–10 small pancakes. The live page shows a bot check, so this comes from a 2022 web archive copy. Calories, protein and weight are estimates and include the sauce.",
+   "proteinPerServing": 2,
+   "servingWeightGrams": 150,
+   "servings": 4,
+   "sourceUrl": "https://healmedelicious.com/aip-banana-pancakes/",
+   "steps": [
+    "Blend the pancake ingredients in the order listed just until combined; the batter should be thick.",
+    "Coat a nonstick skillet well with coconut oil over low-medium heat.",
+    "Spoon in small pancakes (no more than 2 1/2 inches) and cook about 3 minutes until bubbling and setting, then flip.",
+    "For the sauce, simmer the sauce ingredients 3 minutes, stirring. It firms in the fridge, so rewarm to serve.",
+    "Top with sliced banana and carob sauce."
+   ],
+   "tags": [
+    "aip",
+    "breakfast",
+    "paleo",
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+   ],
+   "title": "AIP Banana Pancakes with Carob Sauce",
+   "totalTime": "30 min",
+   "updatedAt": 1792660000000,
+   "id": "ai-aip-banana-pancakes-carob-sauce",
+   "slug": "aip-banana-pancakes-with-carob-sauce"
+  },
+  {
+   "caloriesPerServing": 240,
+   "createdAt": 1792650000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "bacon fat",
+     "quantity": "2 tsp"
+    },
+    {
+     "item": "garlic, minced",
+     "quantity": "2 cloves"
+    },
+    {
+     "item": "yellow onion, diced",
+     "quantity": "1 small"
+    },
+    {
+     "item": "radishes, diced",
+     "quantity": "1/2 lb"
+    },
+    {
+     "item": "grass-fed ground beef",
+     "quantity": "1 lb"
+    },
+    {
+     "item": "AIP taco seasoning and a squeeze of lime (for the meat)",
+     "quantity": ""
+    },
+    {
+     "item": "pumpkin purée",
+     "quantity": "1 can"
+    },
+    {
+     "item": "chicken bone broth or stock (plus a splash for the meat)",
+     "quantity": "1 cup"
+    },
+    {
+     "item": "full-fat coconut milk",
+     "quantity": "1 can"
+    },
+    {
+     "item": "nutritional yeast",
+     "quantity": "1/4 cup"
+    },
+    {
+     "item": "sea salt",
+     "quantity": "1 tsp"
+    },
+    {
+     "item": "arrowroot powder",
+     "quantity": "3 tbsp"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. The meat uses the blogger's separate AIP taco seasoning recipe, which isn't included here. Calories, protein and weight are estimates.",
+   "proteinPerServing": 10,
+   "servingWeightGrams": 150,
+   "servings": 10,
+   "sourceUrl": "http://www.wholesomewithin.com/cheesy-taco-dip/",
+   "steps": [
+    "Sauté the garlic, onion and radishes in the bacon fat over medium-high a few minutes until soft.",
+    "Add the beef and brown, then add the lime juice, a splash of broth and the taco seasoning.",
+    "In a pot, heat the pumpkin, broth and coconut milk over medium until smooth. Stir in the nutritional yeast and salt.",
+    "Whisk in the arrowroot a tablespoon at a time so it doesn't clump.",
+    "Stir the meat into the sauce."
+   ],
+   "tags": [
+    "aip",
+    "dip",
+    "appetizer",
+    "beef",
+    "paleo",
+    "dairy-free",
+    "gluten-free"
+   ],
+   "title": "\"Cheesy\" Taco Dip (AIP, Paleo)",
+   "totalTime": "35 min",
+   "updatedAt": 1792650000000,
+   "id": "ai-aip-cheesy-taco-dip",
+   "slug": "cheesy-taco-dip-aip-paleo"
+  },
+  {
+   "caloriesPerServing": 745,
+   "createdAt": 1792640000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "macaroni (cassava pasta for AIP, or rice pasta)",
+     "quantity": "1 box"
+    },
+    {
+     "item": "ground beef",
+     "quantity": "1 lb"
+    },
+    {
+     "item": "full-fat coconut milk",
+     "quantity": "1 1/4 cups"
+    },
+    {
+     "item": "button or cremini mushrooms, sliced",
+     "quantity": "12 oz"
+    },
+    {
+     "item": "avocado oil",
+     "quantity": "2 tbsp"
+    },
+    {
+     "item": "garlic, crushed",
+     "quantity": "2 cloves"
+    },
+    {
+     "item": "fresh ginger, grated",
+     "quantity": "1 inch"
+    },
+    {
+     "item": "sea salt, divided",
+     "quantity": "1 1/2 tsp"
+    },
+    {
+     "item": "dried oregano and basil",
+     "quantity": "1/2 tsp each"
+    },
+    {
+     "item": "dried ginger",
+     "quantity": "1/4 tsp"
+    },
+    {
+     "item": "fresh thyme, sage, rosemary or parsley, to garnish",
+     "quantity": "1/4 cup"
+    },
+    {
+     "item": "pasta cooking water",
+     "quantity": "1 cup"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. Calories and protein are the site's figures; weight is an estimate.",
+   "proteinPerServing": 31,
+   "servingWeightGrams": 330,
+   "servings": 5,
+   "sourceUrl": "https://eatbeautiful.net/paleo-aip-hamburger-macaroni-pasta/",
+   "steps": [
+    "Cook the pasta per the package (about 11 minutes), save 1 cup cooking water, drain, and return the water and pasta to the pot off the heat.",
+    "Cook the mushrooms in the oil with 1/2 tsp salt over medium 5–8 minutes until wilted, then cover on low 10 minutes. Remove with a slotted spoon.",
+    "Brown the beef with the remaining salt about 6 minutes.",
+    "Lower the heat, add the garlic, fresh and dried ginger and herbs for 1 minute, and return the mushrooms.",
+    "Stir in the coconut milk and simmer 2–3 minutes.",
+    "Gently toss the sauce with the pasta and garnish with fresh herbs."
+   ],
+   "tags": [
+    "aip",
+    "dinner",
+    "beef",
+    "pasta",
+    "paleo",
+    "dairy-free",
+    "gluten-free"
+   ],
+   "title": "Paleo AIP Hamburger Macaroni",
+   "totalTime": "35 min",
+   "updatedAt": 1792640000000,
+   "id": "ai-aip-hamburger-macaroni",
+   "slug": "paleo-aip-hamburger-macaroni"
+  },
+  {
+   "caloriesPerServing": 94,
+   "createdAt": 1792650000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "sweet potatoes, peeled and cut lengthwise into fries",
+     "quantity": "2 large (about 2 lb)"
+    },
+    {
+     "item": "cornstarch",
+     "quantity": "1 1/2 tbsp"
+    },
+    {
+     "item": "paprika",
+     "quantity": "2 tsp"
+    },
+    {
+     "item": "garlic powder",
+     "quantity": "2 tsp"
+    },
+    {
+     "item": "salt and pepper",
+     "quantity": ""
+    },
+    {
+     "item": "olive oil (spray)",
+     "quantity": "1 tbsp"
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. Calories and protein are the site's figures; weight is an estimate.",
+   "proteinPerServing": 1,
+   "servingWeightGrams": 130,
+   "servings": 6,
+   "sourceUrl": "https://www.staysnatched.com/air-fryer-crispy-crunchy-sweet-potato-fries/",
+   "steps": [
+    "Cut into even fries (microwave the potatoes 3–4 minutes first if using a fry cutter).",
+    "Soak in cold water 1 hour, then dry completely.",
+    "Toss with the cornstarch, then the seasonings.",
+    "Air fry in a single layer, sprayed with oil (spray any white cornstarch spots), at 380°F 23–25 minutes, shaking once at 10 minutes. Cook longer for extra crisp. Cool before serving."
+   ],
+   "tags": [
+    "aip",
+    "side",
+    "air-fryer",
+    "vegan",
+    "gluten-free"
+   ],
+   "title": "Crispy Air Fryer Sweet Potato Fries",
+   "totalTime": "1 hr 30 min (incl. soaking)",
+   "updatedAt": 1792650000000,
+   "id": "ai-air-fryer-sweet-potato-fries",
+   "slug": "crispy-air-fryer-sweet-potato-fries"
+  },
+  {
+   "caloriesPerServing": 60,
+   "createdAt": 1792650000000,
+   "example": false,
+   "ingredients": [
+    {
+     "item": "extra virgin olive oil",
+     "quantity": "1/4 cup"
+    },
+    {
+     "item": "balsamic vinegar",
+     "quantity": "1/4 cup"
+    },
+    {
+     "item": "basil leaves, chopped",
+     "quantity": "1/4 cup"
+    },
+    {
+     "item": "garlic, minced",
+     "quantity": "1 clove"
+    },
+    {
+     "item": "sea salt and cracked pepper",
+     "quantity": ""
+    }
+   ],
+   "needsDetails": false,
+   "notes": "From Jessica Lynn's Pinterest board Anti-Inflammatory. A serving is 1 tbsp. Calories and protein are the site's figures; weight is an estimate.",
+   "proteinPerServing": 1,
+   "servingWeightGrams": 15,
+   "servings": 9,
+   "sourceUrl": "https://saladswithanastasia.com/basil-balsamic-vinaigrette/",
+   "steps": [
+    "Blend everything until combined, season to taste, and refrigerate up to 2–3 days."
+   ],
+   "tags": [
+    "aip",
+    "dressing",
+    "vegan",
+    "paleo",
+    "gluten-free",
+    "quick"
+   ],
+   "title": "Basil Balsamic Vinaigrette",
+   "totalTime": "5 min",
+   "updatedAt": 1792650000000,
+   "id": "ai-basil-balsamic-vinaigrette",
+   "slug": "basil-balsamic-vinaigrette"
+  }
+ ]
+}
